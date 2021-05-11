@@ -1,0 +1,41 @@
+//I annotated on this so it would be easier to see what each output corresponds to from the Main class
+
+//Testing out methods in Audition class
+
+9 //get San's singing score
+
+San is a Singer //seeing what category/position San got placed into from the audition
+
+8 //get Bobby's rap score
+
+Bobby is a Rapper //check what category/position Bobby got placed into from the audition (Bobby is an object of the Train class)
+
+false //checking to see if San & Jerry are the same trainee
+
+true //checking to see if timmy & timmy2 are the same trainee
+
+San is now a Main Singer //assign San a more specific position 
+
+
+//Testing out methods in Train class
+
+Rapper //getting bobby's position with the toString overriden command
+
+false //checking if san & bobby have the same position with the overidden equals method 
+
+11 //get Bobby's new rap score after practicing for 2 hours 
+
+22 //get the number of hours Bobby has practiced in total (this is his initial 20 + 2 more he just did)
+
+8 //get Bobby's stamina after practicing 
+
+10 //get Bobby's new stamina (should be increased back up to 10 after recharge method)
+
+
+//Testing out sample methods in Debut class
+
+Stage Name Given. //confimation message for method giving Felix a stage name
+
+felix //get Felix's stage name 
+
+5000 //get the number of fans Felix has 
